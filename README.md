@@ -1,4 +1,3 @@
 # dummyrepo
 this is a dummy
-rrhrt
-dfht
+This is a dummy file not containing anything
